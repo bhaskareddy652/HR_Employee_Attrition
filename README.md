@@ -69,3 +69,15 @@ This project predicts employee attrition using classification models, helping HR
 - ROC AUC: 0.743
 - Recall (Attrition): **0.56**
 - F1 Score (Attrition): **0.49**
+## Conclusion
+Logistic Regression had the best ROC AUC but poor attrition class recall.
+
+Random Forest (Tuned) struck the best balance, improving detection of employees likely to leave.
+
+Further improvements can be made using:
+
+  -SMOTE or ADASYN for oversampling
+
+  -Hyperparameter tuning with GridSearchCV
+
+  -Ensemble methods like VotingClassifier or Stacking
