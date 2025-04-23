@@ -47,22 +47,22 @@ This project predicts employee attrition using classification models, helping HR
 ### 1️⃣ Logistic Regression
 - Accuracy: 0.82
 - ROC AUC: **0.82**
-- Recall (Attrition): 0.13
-- F1 Score (Attrition): 0.19
+- Recall (Attrition):**0.13**
+- F1 Score (Attrition):**0.19**
 
 ### 2️⃣ XGBoost Classifier
 
 - Accuracy: 0.83
 - ROC AUC: 0.73
-- Recall (Attrition): 0.24
-- F1 Score (Attrition): 0.31
+- Recall (Attrition):**0.24**
+- F1 Score (Attrition):**0.31**
 
 ### 3️⃣ K-Nearest Neighbors (K=3)
 
 - Accuracy: 0.83
 - ROC AUC: 0.57
-- Recall (Attrition): 0.14
-- F1 Score (Attrition): 0.21
+- Recall (Attrition): **0.14**
+- F1 Score (Attrition): **0.21**
 ### 4️⃣ Random Forest (Tuned)
 
 - Accuracy: 0.79
