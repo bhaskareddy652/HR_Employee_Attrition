@@ -81,3 +81,9 @@ Further improvements can be made using:
   -Hyperparameter tuning with GridSearchCV
 
   -Ensemble methods like VotingClassifier or Stacking
+## 🛠 Tech Stack
+Python, Pandas, Scikit-learn, XGBoost
+
+Matplotlib & Seaborn for visualization
+
+Jupyter Notebook
